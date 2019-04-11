@@ -1,0 +1,38 @@
+body{
+margin: 0;
+box-sizing: border-box;
+font-size:20px;
+}
+.full{
+  width: 100vw;
+  height: 100vh;
+}
+#list-name {
+  background-color: Linen;
+}
+#Fifthcharacter {
+transition:  all 2s ease;
+}
+.CornflowerBlue{
+background-color: //color;
+}
+.Thistle {
+background-color:
+}
+#Fourthcharacter {
+background-color;
+}
+h1{
+font-size: 5em;
+margin: 0;
+text-align: center;
+font-family: 'Sawarabi+Mincho';
+text-transform: uppercase;
+letter-spacing: 1em;
+font-weight: light;
+transition: all 2s linear;
+}
+span{
+transition: all 2s ease;
+cursor: pointer;
+}
